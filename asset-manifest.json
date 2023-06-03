@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/stoke-market/static/css/main.0d26dbf4.css",
+    "main.js": "/stoke-market/static/js/main.39ca03bd.js",
+    "static/js/787.571a8804.chunk.js": "/stoke-market/static/js/787.571a8804.chunk.js",
+    "static/media/ 1.png": "/stoke-market/static/media/56c86f42338ebaca99d0c2875a50494a 1.843e18b2dfe75dfa437a.png",
+    "static/media/bootstrap-icons.woff?": "/stoke-market/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/ 4.png": "/stoke-market/static/media/56c86f42338ebaca99d0c2875a50494a 4.a738d9786b9d5df9166a.png",
+    "static/media/bootstrap-icons.woff2?": "/stoke-market/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/ 3.png": "/stoke-market/static/media/56c86f42338ebaca99d0c2875a50494a 3.ccce467f3064e7e54d7f.png",
+    "static/media/ 5.png": "/stoke-market/static/media/56c86f42338ebaca99d0c2875a50494a 5.9b47d898784f12295769.png",
+    "static/media/bg img.png": "/stoke-market/static/media/bg img.4f386ccc8fa8b0d5cb7a.png",
+    "static/media/ 2.png": "/stoke-market/static/media/56c86f42338ebaca99d0c2875a50494a 2.606fc60f27ff563dffb6.png",
+    "static/media/logo-removebg-preview.png": "/stoke-market/static/media/logo-removebg-preview.45b4829662a1f8366787.png",
+    "static/media/Rectangle 50.png": "/stoke-market/static/media/Rectangle 50.03f10373b81033ecd7bc.png",
+    "static/media/Rectangle 51 (1).png": "/stoke-market/static/media/Rectangle 51 (1).fee7634e9ae57407fa03.png",
+    "static/media/Rectangle 46.png": "/stoke-market/static/media/Rectangle 46.5ce1c6128a486896640d.png",
+    "static/media/Rectangle 49.png": "/stoke-market/static/media/Rectangle 49.aa9bd348a164102d5afc.png",
+    "static/media/Rectangle 47.png": "/stoke-market/static/media/Rectangle 47.e00e089c2cc42ceb7faf.png",
+    "index.html": "/stoke-market/index.html",
+    "main.0d26dbf4.css.map": "/stoke-market/static/css/main.0d26dbf4.css.map",
+    "main.39ca03bd.js.map": "/stoke-market/static/js/main.39ca03bd.js.map",
+    "787.571a8804.chunk.js.map": "/stoke-market/static/js/787.571a8804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d26dbf4.css",
+    "static/js/main.39ca03bd.js"
+  ]
+}
